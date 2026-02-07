@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+p.odd-number {
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+  display: block;
+  background-color: rgba(255, 5, 129, 0.5);
+}
+
+#div-1 {
+  color: blue;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#div-2 {
+  background-color: rgba(0, 255, 0, 0.5);
+  font-weight: bold;
+}

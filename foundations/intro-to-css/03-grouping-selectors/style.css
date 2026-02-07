@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.button_ {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  font-size: 28px;
+  font-family:
+    sans-serif,
+    Times New Roman,
+    Helvetica;
+}
+
+#button1 {
+  background-color: black;
+  color: white;
+  margin: 5px;
+}
+
+#button2 {
+  background-color: yellow;
+}
